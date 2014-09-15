@@ -8,6 +8,8 @@
 
 import UIKit
 
+// Adding a comment here to test commits!
+
 class ViewController: UIViewController {
 
     @IBOutlet weak var messageLabel: UILabel!
